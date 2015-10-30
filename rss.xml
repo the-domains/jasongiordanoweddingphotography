@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JasonGiordanoWeddingPhotography]]></title>
         <description><![CDATA[JasonGiordanoWeddingPhotography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jasongiordanoweddingphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 17:23:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 17:24:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jasongiordanoweddingphotography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/jasongiordanoweddingphotography/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">04e25d55-c6c7-426b-951f-8e729bad59f5</guid>
-            <pubDate>Fri, 30 Oct 2015 17:23:30 GMT</pubDate>
+            <pubDate>Fri, 30 Oct 2015 17:23:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
