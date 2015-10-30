@@ -1,0 +1,23 @@
+name: JasonGiordanoWeddingPhotography
+favicon: null
+layout_spectrum: 0.7302487015258521
+typography_spectrum: 0.9744932511821389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.21455543558113277
+  lightness: 0.18658563401550055
+  saturation: 0.5420392293017358
+  rhythmicContrast: 0.5147052046377212
+purpose: []
